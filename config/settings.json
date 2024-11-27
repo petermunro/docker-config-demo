@@ -1,0 +1,17 @@
+{
+    "theme": "dark",
+    "welcomeMessage": "Hello, Docker!",
+    "featureFlags": {
+        "newUI": true,
+        "showDateTime": true
+    },
+    "styles": {
+        "primaryColor": "#2563eb",
+        "fontSize": "16px",
+        "borderRadius": "8px"
+    },
+    "content": {
+        "subtitle": "Configuration through Docker bind mounts",
+        "footerText": "Try changing the config file to see live updates!"
+    }
+}
